@@ -94,7 +94,7 @@ ul{
                 "Footer Footer";
     }
     .hidden-on-desktop {
-        display: none;
+        display: none
     }
     li{
         background-color: white;
